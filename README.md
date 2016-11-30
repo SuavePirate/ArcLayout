@@ -152,7 +152,7 @@ Full Example Layout:
 
 </com.ogaclejapan.arclayout.ArcLayout>
 <com.ogaclejapan.arclayout.ArcLayout
-        android:id="@+id/arc_layout"
+        android:id="@+id/arc_layout_center"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:arc_origin="center"
