@@ -206,6 +206,7 @@ Full Example Layout:
 ```
 
 ## TODO:
-Add example in the Android Bindings Example repository
-
+- Add example in the Android Bindings Example repository
+- Create Xamarin Component
+- Create Nuget Package
 [demo1]: https://cloud.githubusercontent.com/assets/6868294/20757562/c5e9e0be-b6e4-11e6-88a4-782c731efe91.png
