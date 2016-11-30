@@ -206,6 +206,7 @@ Full Example Layout:
 ```
 
 ## TODO:
+- Fix C# namespace
 - Add example in the Android Bindings Example repository
 - Create Xamarin Component
 - Create Nuget Package
